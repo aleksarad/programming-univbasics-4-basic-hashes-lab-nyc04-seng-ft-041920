@@ -4,7 +4,7 @@ def new_hash
 end
 
 def my_hash
-  hash = {:dog => "cute", :cat = > "also cute"}
+  hash = {:dog => "cute", :cat => "also cute"}
 end
 
 def pioneer
